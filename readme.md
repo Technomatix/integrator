@@ -22,7 +22,8 @@ Create file `~/.integrator/config`:
     }
   },
   "desktime": {
-    "APIkey": "%key%"
+    "APIkey": "%key%",
+    "EmployeeId": "%employeeId%"
   }
 }
 ```
